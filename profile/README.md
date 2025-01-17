@@ -3,8 +3,6 @@
 ![Funded by the European Union](EN_FundedbytheEU_RGB_POS.png) 
 Funded by the European Union under grant agreement 101137636. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them.
 
-<br>
-
 # Welcome!
 This is the [HAVEN](https://havenproject.eu/) project's official Github organization where you can find project's different repositories, so that developed source code can be easily shared between partners.
 
