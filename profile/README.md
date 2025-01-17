@@ -1,6 +1,15 @@
 ![HAVEN Project's logo](https://havenproject.eu/wp-content/uploads/2024/03/HAVEN-logo.png "HAVEN Project's logo")
 
-<img align="left" height="100" style="margin-right:20;" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" /> Funded by the European Union under grant agreement 101137636. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them.
+<table>
+  <tr>
+    <td>
+      <img style="margin-right:20px;" src="https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_flag.jpg" />
+    </td>
+    <td>
+      Funded by the European Union under grant agreement 101137636. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them.
+    </td>
+  </tr>
+</table>
 
 <br>
 
